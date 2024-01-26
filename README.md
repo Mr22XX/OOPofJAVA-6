@@ -1,2 +1,2 @@
 # OOPofJAVA-6
-Exercise
+Exercise-2
